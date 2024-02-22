@@ -1,0 +1,8 @@
+The Movies Menu options.
+Enter:
+1. Print all Movies.
+2. Add a Movie.
+3. Update a Movie.
+4. Delete a Movie.
+5. Search for a Movie.
+6. Exit the Movie App.
